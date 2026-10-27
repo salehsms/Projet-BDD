@@ -1,0 +1,372 @@
+[
+    {
+        "id_produit": 1,
+        "id_fournisseur": 94,
+        "prix": 48.1
+    },
+    {
+        "id_produit": 2,
+        "id_fournisseur": 183,
+        "prix": 19.84
+    },
+    {
+        "id_produit": 3,
+        "id_fournisseur": 125,
+        "prix": 2.84
+    },
+    {
+        "id_produit": 3,
+        "id_fournisseur": 183,
+        "prix": 38.97
+    },
+    {
+        "id_produit": 4,
+        "id_fournisseur": 157,
+        "prix": 49.9
+    },
+    {
+        "id_produit": 5,
+        "id_fournisseur": 76,
+        "prix": 3.94
+    },
+    {
+        "id_produit": 6,
+        "id_fournisseur": 39,
+        "prix": 25.01
+    },
+    {
+        "id_produit": 7,
+        "id_fournisseur": 42,
+        "prix": 22.4
+    },
+    {
+        "id_produit": 8,
+        "id_fournisseur": 191,
+        "prix": 13.04
+    },
+    {
+        "id_produit": 8,
+        "id_fournisseur": 131,
+        "prix": 12.18
+    },
+    {
+        "id_produit": 9,
+        "id_fournisseur": 167,
+        "prix": 3.55
+    },
+    {
+        "id_produit": 10,
+        "id_fournisseur": 24,
+        "prix": 18.92
+    },
+    {
+        "id_produit": 11,
+        "id_fournisseur": 165,
+        "prix": 39.86
+    },
+    {
+        "id_produit": 12,
+        "id_fournisseur": 26,
+        "prix": 24.15
+    },
+    {
+        "id_produit": 12,
+        "id_fournisseur": 105,
+        "prix": 3.89
+    },
+    {
+        "id_produit": 13,
+        "id_fournisseur": 31,
+        "prix": 3.28
+    },
+    {
+        "id_produit": 14,
+        "id_fournisseur": 213,
+        "prix": 46.85
+    },
+    {
+        "id_produit": 14,
+        "id_fournisseur": 39,
+        "prix": 41.73
+    },
+    {
+        "id_produit": 15,
+        "id_fournisseur": 94,
+        "prix": 44.04
+    },
+    {
+        "id_produit": 16,
+        "id_fournisseur": 234,
+        "prix": 38.97
+    },
+    {
+        "id_produit": 16,
+        "id_fournisseur": 22,
+        "prix": 31.83
+    },
+    {
+        "id_produit": 17,
+        "id_fournisseur": 144,
+        "prix": 8.03
+    },
+    {
+        "id_produit": 18,
+        "id_fournisseur": 51,
+        "prix": 43.44
+    },
+    {
+        "id_produit": 18,
+        "id_fournisseur": 180,
+        "prix": 13.73
+    },
+    {
+        "id_produit": 19,
+        "id_fournisseur": 4,
+        "prix": 28.52
+    },
+    {
+        "id_produit": 19,
+        "id_fournisseur": 133,
+        "prix": 29.6
+    },
+    {
+        "id_produit": 20,
+        "id_fournisseur": 136,
+        "prix": 43.8
+    },
+    {
+        "id_produit": 21,
+        "id_fournisseur": 60,
+        "prix": 36.34
+    },
+    {
+        "id_produit": 22,
+        "id_fournisseur": 145,
+        "prix": 40.48
+    },
+    {
+        "id_produit": 22,
+        "id_fournisseur": 46,
+        "prix": 34.05
+    },
+    {
+        "id_produit": 23,
+        "id_fournisseur": 169,
+        "prix": 37.97
+    },
+    {
+        "id_produit": 23,
+        "id_fournisseur": 164,
+        "prix": 43.07
+    },
+    {
+        "id_produit": 24,
+        "id_fournisseur": 106,
+        "prix": 37.17
+    },
+    {
+        "id_produit": 25,
+        "id_fournisseur": 170,
+        "prix": 3.82
+    },
+    {
+        "id_produit": 25,
+        "id_fournisseur": 93,
+        "prix": 5.53
+    },
+    {
+        "id_produit": 26,
+        "id_fournisseur": 149,
+        "prix": 22.91
+    },
+    {
+        "id_produit": 27,
+        "id_fournisseur": 148,
+        "prix": 7.83
+    },
+    {
+        "id_produit": 27,
+        "id_fournisseur": 160,
+        "prix": 16.76
+    },
+    {
+        "id_produit": 28,
+        "id_fournisseur": 207,
+        "prix": 12.17
+    },
+    {
+        "id_produit": 29,
+        "id_fournisseur": 161,
+        "prix": 19.11
+    },
+    {
+        "id_produit": 30,
+        "id_fournisseur": 68,
+        "prix": 2.04
+    },
+    {
+        "id_produit": 31,
+        "id_fournisseur": 112,
+        "prix": 9.7
+    },
+    {
+        "id_produit": 31,
+        "id_fournisseur": 179,
+        "prix": 19.15
+    },
+    {
+        "id_produit": 32,
+        "id_fournisseur": 202,
+        "prix": 21.26
+    },
+    {
+        "id_produit": 33,
+        "id_fournisseur": 51,
+        "prix": 9.01
+    },
+    {
+        "id_produit": 34,
+        "id_fournisseur": 83,
+        "prix": 32.66
+    },
+    {
+        "id_produit": 34,
+        "id_fournisseur": 195,
+        "prix": 29.78
+    },
+    {
+        "id_produit": 35,
+        "id_fournisseur": 228,
+        "prix": 25.6
+    },
+    {
+        "id_produit": 35,
+        "id_fournisseur": 101,
+        "prix": 22.21
+    },
+    {
+        "id_produit": 36,
+        "id_fournisseur": 73,
+        "prix": 47.53
+    },
+    {
+        "id_produit": 36,
+        "id_fournisseur": 46,
+        "prix": 9.84
+    },
+    {
+        "id_produit": 37,
+        "id_fournisseur": 29,
+        "prix": 46.25
+    },
+    {
+        "id_produit": 37,
+        "id_fournisseur": 121,
+        "prix": 26.46
+    },
+    {
+        "id_produit": 38,
+        "id_fournisseur": 124,
+        "prix": 7.64
+    },
+    {
+        "id_produit": 39,
+        "id_fournisseur": 170,
+        "prix": 33.61
+    },
+    {
+        "id_produit": 39,
+        "id_fournisseur": 217,
+        "prix": 26.2
+    },
+    {
+        "id_produit": 40,
+        "id_fournisseur": 143,
+        "prix": 17.96
+    },
+    {
+        "id_produit": 40,
+        "id_fournisseur": 6,
+        "prix": 15.45
+    },
+    {
+        "id_produit": 41,
+        "id_fournisseur": 125,
+        "prix": 20.36
+    },
+    {
+        "id_produit": 41,
+        "id_fournisseur": 211,
+        "prix": 4.35
+    },
+    {
+        "id_produit": 42,
+        "id_fournisseur": 75,
+        "prix": 31.51
+    },
+    {
+        "id_produit": 42,
+        "id_fournisseur": 71,
+        "prix": 40.11
+    },
+    {
+        "id_produit": 43,
+        "id_fournisseur": 13,
+        "prix": 28.71
+    },
+    {
+        "id_produit": 44,
+        "id_fournisseur": 72,
+        "prix": 32.25
+    },
+    {
+        "id_produit": 44,
+        "id_fournisseur": 130,
+        "prix": 35.51
+    },
+    {
+        "id_produit": 45,
+        "id_fournisseur": 4,
+        "prix": 3.13
+    },
+    {
+        "id_produit": 45,
+        "id_fournisseur": 132,
+        "prix": 2.27
+    },
+    {
+        "id_produit": 46,
+        "id_fournisseur": 52,
+        "prix": 2.18
+    },
+    {
+        "id_produit": 46,
+        "id_fournisseur": 200,
+        "prix": 46.61
+    },
+    {
+        "id_produit": 47,
+        "id_fournisseur": 161,
+        "prix": 17.39
+    },
+    {
+        "id_produit": 47,
+        "id_fournisseur": 155,
+        "prix": 40.43
+    },
+    {
+        "id_produit": 48,
+        "id_fournisseur": 122,
+        "prix": 12.98
+    },
+    {
+        "id_produit": 49,
+        "id_fournisseur": 196,
+        "prix": 29.21
+    },
+    {
+        "id_produit": 49,
+        "id_fournisseur": 168,
+        "prix": 8.04
+    }
+]

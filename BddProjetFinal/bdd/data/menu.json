@@ -1,0 +1,50 @@
+[
+    {
+        "id_menu": 1,
+        "nom_menu": "Janvier"
+    },
+    {
+        "id_menu": 2,
+        "nom_menu": "Février"
+    },
+    {
+        "id_menu": 3,
+        "nom_menu": "Mars"
+    },
+    {
+        "id_menu": 4,
+        "nom_menu": "Avril"
+    },
+    {
+        "id_menu": 5,
+        "nom_menu": "Mai"
+    },
+    {
+        "id_menu": 6,
+        "nom_menu": "Juin"
+    },
+    {
+        "id_menu": 7,
+        "nom_menu": "Juillet"
+    },
+    {
+        "id_menu": 8,
+        "nom_menu": "Août"
+    },
+    {
+        "id_menu": 9,
+        "nom_menu": "Septembre"
+    },
+    {
+        "id_menu": 10,
+        "nom_menu": "Octobre"
+    },
+    {
+        "id_menu": 11,
+        "nom_menu": "Novembre"
+    },
+    {
+        "id_menu": 12,
+        "nom_menu": "Décembre"
+    }
+]

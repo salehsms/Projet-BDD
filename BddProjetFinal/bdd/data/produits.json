@@ -1,0 +1,518 @@
+[
+    {
+        "id_produit": 1,
+        "nom_produit": "cassonade",
+        "marques": [
+            "Daddy",
+            "Béghin Say,La Perruche,Tereos",
+            "Lidl, navarre",
+            "Saint louis",
+            "SAINT-LOUIS"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 2,
+        "nom_produit": "sel",
+        "marques": [
+            "Jardin Bio étic",
+            "Gerblé",
+            "Le Fromage Fouetté Madame Loïk, Paysan breton",
+            "Star",
+            "Jordans"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 3,
+        "nom_produit": "oignon jaune",
+        "marques": [],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 4,
+        "nom_produit": "dés de jambon",
+        "marques": [
+            "Herta",
+            "HERTA, Le Bon Paris",
+            "Fleury Michon",
+            "LA VIE"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 5,
+        "nom_produit": "boeuf haché",
+        "marques": [
+            "Charal",
+            "L'étal du boucher"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 6,
+        "nom_produit": "champignon",
+        "marques": [
+            "Céréal bio",
+            "Rana",
+            "KNORR",
+            "Bonduelle",
+            "Fleury Michon"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 7,
+        "nom_produit": "échalotes",
+        "marques": [],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 8,
+        "nom_produit": "citron",
+        "marques": [
+            "Gerblé",
+            "Bonduelle",
+            "Star"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 9,
+        "nom_produit": "sucre semoule",
+        "marques": [
+            "Curly,Intersnack,Vico",
+            "Intersnack,Monster Munch,Vico",
+            "U",
+            "Daddy"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 10,
+        "nom_produit": "bouillon de légumes",
+        "marques": [
+            "Jardin Bio, Jardin biologique, Léa Nature",
+            "Maggi",
+            "Jardin bio, Léa Nature"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 11,
+        "nom_produit": "chocolat noir",
+        "marques": [
+            "Lindt",
+            "Bjorg",
+            "Lindt & Sprüngli"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 12,
+        "nom_produit": "sucre vanillé",
+        "marques": [
+            "Les 2 Vaches",
+            "Bjorg",
+            "Malo",
+            "Nestlé, La Laitière",
+            "DANONE"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 13,
+        "nom_produit": "pommes",
+        "marques": [
+            "La Boulangère,La Boulangère Bio",
+            "KRISPROLLS",
+            "Jacquet",
+            "Wasa"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 14,
+        "nom_produit": "bouillon de poule",
+        "marques": [
+            "Jardin bio, Léa Nature",
+            "Knorr",
+            "cuisine ibo",
+            "Philia"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 15,
+        "nom_produit": "jaune d'oeuf",
+        "marques": [
+            "Benedicta",
+            "Picard",
+            "EL MAZRAA",
+            "Biscuits filet bleu",
+            "SFPA"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 16,
+        "nom_produit": "cannelle",
+        "marques": [
+            "Ducros,McCormick",
+            "Karéléa",
+            "Belgix",
+            "Pågen,Gifflar",
+            "J FAVRICHON"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 17,
+        "nom_produit": "sucre",
+        "marques": [
+            "Cristaline",
+            "Danone",
+            "Lindt",
+            "Jardin Bio étic"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 18,
+        "nom_produit": "poivre",
+        "marques": [],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 19,
+        "nom_produit": "pomme de terre",
+        "marques": [
+            "La Boulangère,La Boulangère Bio",
+            "KRISPROLLS",
+            "Jacquet",
+            "Wasa"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 20,
+        "nom_produit": "beurre doux",
+        "marques": [],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 21,
+        "nom_produit": "biscuits à la cuillère",
+        "marques": [
+            "Bonne Maman",
+            "Sondey",
+            "Bonneterre",
+            "Brossard",
+            "Italiamo"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 22,
+        "nom_produit": "mascarpone",
+        "marques": [
+            "Galbani",
+            "Giovanni Rana, Rana",
+            "Le Berger, الراعي",
+            "Heinz"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 23,
+        "nom_produit": "oignons",
+        "marques": [],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 24,
+        "nom_produit": "sucre roux",
+        "marques": [
+            "Béghin Say,La Perruche,Tereos",
+            "Ethiquable",
+            "Carrefour BIO, Carrefour",
+            "Alter Eco",
+            "SAINT-LOUIS"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 25,
+        "nom_produit": "muscade",
+        "marques": [
+            "Knorr",
+            "Carrefour Original",
+            "Michel et Augustin",
+            "Mousline",
+            "Ducros"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 26,
+        "nom_produit": "eau",
+        "marques": [
+            "sidi ali",
+            "Cristaline",
+            "Ain atlas",
+            "Eau minérale naturelle des Montagnes d'Atlas",
+            "THE COCA-COLA COMPANY"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 27,
+        "nom_produit": "aubergines",
+        "marques": [
+            "Cassegrain",
+            "Fleury Michon",
+            "Céréal bio",
+            "Picard"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 28,
+        "nom_produit": "miel",
+        "marques": [
+            "Nature ValleyGeneral Mills",
+            "LU",
+            "KELLOG'S",
+            "Gerblé",
+            "Bjorg"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 29,
+        "nom_produit": "pommes de terre",
+        "marques": [
+            "La Boulangère,La Boulangère Bio",
+            "KRISPROLLS",
+            "Jacquet",
+            "Wasa"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 30,
+        "nom_produit": "vin blanc",
+        "marques": [
+            "Maille",
+            "Petit Navire",
+            "Saupiquet",
+            "Marie"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 31,
+        "nom_produit": "lait",
+        "marques": [
+            "Jaouda",
+            "Yoplait",
+            "Alpro"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 32,
+        "nom_produit": "oignon",
+        "marques": [
+            "Pringles",
+            "Cassegrain",
+            "Vico"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 33,
+        "nom_produit": "crème fraîche",
+        "marques": [],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 34,
+        "nom_produit": "beurre",
+        "marques": [
+            "Jardin Bio étic",
+            "Ethiquable",
+            "Andros",
+            "Maribel"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 35,
+        "nom_produit": "farine",
+        "marques": [
+            "La Boulangère,La Boulangère Bio",
+            "La Boulangère",
+            "Bjorg",
+            "Harrys"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 36,
+        "nom_produit": "cuisses de canard",
+        "marques": [
+            "Picard",
+            "Maison Montfort",
+            "Delpeyrat",
+            "Itineraire des saveurs, Itineraire de nos regions"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 37,
+        "nom_produit": "carottes",
+        "marques": [
+            "Bonduelle",
+            "Cassegrain",
+            "pago",
+            "BONJOUR",
+            "Pierre Martinet"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 38,
+        "nom_produit": "gruyère râpé",
+        "marques": [
+            "EntreMont",
+            "Itinéraire des Saveurs, Les Mousquetaires",
+            "Leclerc, Nos regions ont du talent",
+            "Carrefour"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 39,
+        "nom_produit": "ail",
+        "marques": [
+            "Fromarsac, Savencia, Tartare",
+            "Paysan Breton",
+            "Elle & Vire",
+            "Savencia,Tartare",
+            "Jardin Bio, Jardin biologique, Léa Nature"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 40,
+        "nom_produit": "levure chimique",
+        "marques": [],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 41,
+        "nom_produit": "oeufs",
+        "marques": [
+            "La Boulangère",
+            "La Boulangère Bio, La boulangere",
+            "St Michel",
+            "la boulangère",
+            "LU, Mondelez, Mondelez International"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 42,
+        "nom_produit": "cacao amer",
+        "marques": [
+            "Delhaize",
+            "Anidor",
+            "Valrhona",
+            "Mazet"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 43,
+        "nom_produit": "café",
+        "marques": [
+            "Nescafé",
+            "Nestlé, Ricore",
+            "Nestlé",
+            "Nescafe",
+            "Nestlé, Ricoré"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 44,
+        "nom_produit": "farine de blé",
+        "marques": [
+            "La Boulangère,La Boulangère Bio",
+            "La Boulangère",
+            "Bjorg",
+            "Jacquet",
+            "La boulangère bio"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 45,
+        "nom_produit": "crème liquide",
+        "marques": [
+            "Elle & Vire",
+            "Bridelice",
+            "Bjorg, Bjorg Veggie",
+            "envia",
+            "Elle & vire, Savencia"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 46,
+        "nom_produit": "courgettes",
+        "marques": [
+            "Cassegrain",
+            "Picard",
+            "Marie",
+            "Florette"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 47,
+        "nom_produit": "tomates",
+        "marques": [
+            "solis",
+            "Barilla",
+            "Natu' & Bon,Vico",
+            "Céréal Bio",
+            "Heinz"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 48,
+        "nom_produit": "huile d'olive",
+        "marques": [
+            "Alvalle",
+            "Parmentier",
+            "oued souss",
+            "Cassegrain"
+        ],
+        "disponibilite": null
+    },
+    {
+        "id_produit": 49,
+        "nom_produit": "blanquette de veau",
+        "marques": [
+            "Picard",
+            "William Saurin",
+            "Marque Repère,Côté Table",
+            "Marie",
+            "Toque du chef"
+        ],
+        "disponibilite": null
+    }
+]

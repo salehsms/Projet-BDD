@@ -1,0 +1,142 @@
+[
+    {
+        "id_stock": 1,
+        "id_ingredient": 174,
+        "id_ustensille": null,
+        "quantité_disponible": 10,
+        "quantité_minimale": 10
+    },
+    {
+        "id_stock": 2,
+        "id_ingredient": 213,
+        "id_ustensille": null,
+        "quantité_disponible": 40,
+        "quantité_minimale": 7
+    },
+    {
+        "id_stock": 3,
+        "id_ingredient": 217,
+        "id_ustensille": null,
+        "quantité_disponible": 45,
+        "quantité_minimale": 2
+    },
+    {
+        "id_stock": 4,
+        "id_ingredient": 102,
+        "id_ustensille": null,
+        "quantité_disponible": 29,
+        "quantité_minimale": 9
+    },
+    {
+        "id_stock": 5,
+        "id_ingredient": 13,
+        "id_ustensille": null,
+        "quantité_disponible": 35,
+        "quantité_minimale": 2
+    },
+    {
+        "id_stock": 6,
+        "id_ingredient": 65,
+        "id_ustensille": null,
+        "quantité_disponible": 32,
+        "quantité_minimale": 9
+    },
+    {
+        "id_stock": 7,
+        "id_ingredient": 176,
+        "id_ustensille": null,
+        "quantité_disponible": 37,
+        "quantité_minimale": 7
+    },
+    {
+        "id_stock": 8,
+        "id_ingredient": 141,
+        "id_ustensille": null,
+        "quantité_disponible": 29,
+        "quantité_minimale": 6
+    },
+    {
+        "id_stock": 9,
+        "id_ingredient": 88,
+        "id_ustensille": null,
+        "quantité_disponible": 36,
+        "quantité_minimale": 10
+    },
+    {
+        "id_stock": 10,
+        "id_ingredient": 177,
+        "id_ustensille": null,
+        "quantité_disponible": 10,
+        "quantité_minimale": 7
+    },
+    {
+        "id_stock": 11,
+        "id_ingredient": 72,
+        "id_ustensille": null,
+        "quantité_disponible": 24,
+        "quantité_minimale": 10
+    },
+    {
+        "id_stock": 12,
+        "id_ingredient": 143,
+        "id_ustensille": null,
+        "quantité_disponible": 8,
+        "quantité_minimale": 2
+    },
+    {
+        "id_stock": 13,
+        "id_ingredient": 96,
+        "id_ustensille": null,
+        "quantité_disponible": 7,
+        "quantité_minimale": 10
+    },
+    {
+        "id_stock": 14,
+        "id_ingredient": 12,
+        "id_ustensille": null,
+        "quantité_disponible": 50,
+        "quantité_minimale": 10
+    },
+    {
+        "id_stock": 15,
+        "id_ingredient": 95,
+        "id_ustensille": null,
+        "quantité_disponible": 7,
+        "quantité_minimale": 10
+    },
+    {
+        "id_stock": 16,
+        "id_ingredient": 201,
+        "id_ustensille": null,
+        "quantité_disponible": 47,
+        "quantité_minimale": 6
+    },
+    {
+        "id_stock": 17,
+        "id_ingredient": 214,
+        "id_ustensille": null,
+        "quantité_disponible": 22,
+        "quantité_minimale": 5
+    },
+    {
+        "id_stock": 18,
+        "id_ingredient": 182,
+        "id_ustensille": null,
+        "quantité_disponible": 35,
+        "quantité_minimale": 7
+    },
+    {
+        "id_stock": 19,
+        "id_ingredient": 117,
+        "id_ustensille": null,
+        "quantité_disponible": 42,
+        "quantité_minimale": 7
+    },
+    {
+        "id_stock": 20,
+        "id_ingredient": 76,
+        "id_ustensille": null,
+        "quantité_disponible": 12,
+        "quantité_minimale": 6
+    }
+]

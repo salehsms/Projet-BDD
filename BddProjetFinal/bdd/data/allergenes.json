@@ -1,0 +1,137 @@
+[
+  {
+    "id_allergene": 1,
+    "nom_allergene": "Lupin",
+    "description": null
+  },
+  {
+    "id_allergene": 2,
+    "nom_allergene": "banana",
+    "description": null
+  },
+  {
+    "id_allergene": 3,
+    "nom_allergene": "Mollusques",
+    "description": null
+  },
+  {
+    "id_allergene": 4,
+    "nom_allergene": "Lait",
+    "description": null
+  },
+  {
+    "id_allergene": 5,
+    "nom_allergene": "Fruits à coque",
+    "description": null
+  },
+  {
+    "id_allergene": 6,
+    "nom_allergene": "matsutake",
+    "description": null
+  },
+  {
+    "id_allergene": 7,
+    "nom_allergene": "Moutarde",
+    "description": null
+  },
+  {
+    "id_allergene": 8,
+    "nom_allergene": "Œufs",
+    "description": null
+  },
+  {
+    "id_allergene": 9,
+    "nom_allergene": "pork",
+    "description": null
+  },
+  {
+    "id_allergene": 10,
+    "nom_allergene": "Soja",
+    "description": null
+  },
+  {
+    "id_allergene": 11,
+    "nom_allergene": "Gluten",
+    "description": null
+  },
+  {
+    "id_allergene": 12,
+    "nom_allergene": "yamaimo",
+    "description": null
+  },
+  {
+    "id_allergene": 13,
+    "nom_allergene": "kiwi",
+    "description": null
+  },
+  {
+    "id_allergene": 14,
+    "nom_allergene": "red-caviar",
+    "description": null
+  },
+  {
+    "id_allergene": 15,
+    "nom_allergene": "Arachides",
+    "description": null
+  },
+  {
+    "id_allergene": 16,
+    "nom_allergene": "Aucun",
+    "description": null
+  },
+  {
+    "id_allergene": 17,
+    "nom_allergene": "apple",
+    "description": null
+  },
+  {
+    "id_allergene": 18,
+    "nom_allergene": "Céleri",
+    "description": null
+  },
+  {
+    "id_allergene": 19,
+    "nom_allergene": "gelatin",
+    "description": null
+  },
+  {
+    "id_allergene": 20,
+    "nom_allergene": "beef",
+    "description": null
+  },
+  {
+    "id_allergene": 21,
+    "nom_allergene": "peach",
+    "description": null
+  },
+  {
+    "id_allergene": 22,
+    "nom_allergene": "Crustacés",
+    "description": null
+  },
+  {
+    "id_allergene": 23,
+    "nom_allergene": "Anhydride sulfureux et sulfites",
+    "description": null
+  },
+  {
+    "id_allergene": 24,
+    "nom_allergene": "orange",
+    "description": null
+  },
+  {
+    "id_allergene": 25,
+    "nom_allergene": "chicken",
+    "description": null
+  },
+  {
+    "id_allergene": 26,
+    "nom_allergene": "Poisson",
+    "description": null
+  },
+  {
+    "id_allergene": 27,
+    "nom_allergene": "Graines de sésame",
+    "description": null
+  }
+]
